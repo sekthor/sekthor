@@ -1,11 +1,63 @@
-## About me
+I am a tinkerer, a dreamer and a solarpunk driven by curiostity.
+Since I can remember I have always had my head in the clouds.
+These days I mostly limit myself to one.
+_The_ cloud ☁️, that is.
+By now it really feels like home and I am starting to consider myself a native.
 
-I am a DevOps engineer tinkering along the full stack.
-I live and breathe Kubernetes ☸️, love Linux 🐧 and have my head somewhere in the cloud(s) ☁️
+## `$ whoami`
 
-- ✏️ I write.⠀⠀⠀⠀⠀⠀⠀[![Go](assets/tiny/gopher48.png)](https://golang.org) [![Java](assets/tiny/java48.png)](https://openjdk.org/) [![Typescript](assets/tiny/ts48.png)](https://www.typescriptlang.org/) [![Angular](assets/tiny/angular48.png)](https://angular.io/) ![C](assets/tiny/c48.png)
-- 🚀 I deploy.⠀⠀⠀⠀⠀⠀[![Kubernetes](assets/tiny/k8s48.png)](https://kubernetes.io/) [![Docker](assets/tiny/docker.png)](https://www.docker.com/) [![ArgoCD](assets/tiny/argo48.png)](https://argo-cd.readthedocs.io/en/stable) [![Traefik](assets/tiny/traefik48.png)](https://doc.traefik.io/traefik/) [![Certmanager](assets/tiny/cert48.png)](https://cert-manager.io) [![Terraform](assets/tiny/terraform.png)](https://www.terraform.io/) [![Ansible](assets/tiny/ansible.png)](https://www.ansible.com/)
-- 🔎 I monitor.⠀⠀⠀⠀⠀[![Prometheus](assets/tiny/prometheus48.png)](https://prometheus.io/) [![Grafana](assets/tiny/grafana48.png)](https://grafana.com/) [![Loki](assets/tiny/loki48.png)](https://grafana.com/)
-- ⚙️ I run.⠀⠀⠀⠀⠀⠀⠀⠀[![Linux](assets/tiny/linux48square.png)](https://kernel.org) [![Arch](assets/tiny/arch48.png)](https://archlinux.org) [![Debian](assets/tiny/debian48square.png)](https://debian.org) [![Ubuntu](assets/tiny/ubuntu48square.png)](https://ubuntu.com)
+- I am a DevOps engineer tinkering along the full stack.
+- I live and breathe Kubernetes ☸️, love Linux 🐧 and mostly write Go.
+- I seldom hesitate to spend hours automating 15 minute tasks ♻️
+- I have a firm free software 💯
+- I fell for the neovim meme 🤷🏻‍♂️
 
-_got a minute to review my pull request?_
+## 👨🏻‍🔧 What I do
+
+- ✍🏻 I write code.
+- 🛠️ I build code.
+- 🚀 I deploy code.
+- 🔎 I monitor code.
+
+## 🧰 My Stack
+
+<details>
+<summary>🛠️ Development</summary>
+<br/>
+<ul>
+  <li>Go</li>
+  <li>Typescript</li>
+</ul>
+</details>
+
+<details>
+<summary>🚀 Deployment</summary>
+<br/>
+<ul>
+  <li>Kubernetes</li>
+  <li>ArgoCD</li>
+  <li>Helm</li>
+</ul>
+</details>
+
+<details>
+<summary>🔎 Observability</summary>
+<br/>
+<ul>
+  <li>Prometheus</li>
+  <li>Loki</li>
+  <li>Tempo</li>
+  <li>Grafana</li>
+  <li>Opentelemetry</li>
+</ul>
+</details>
+
+<details>
+<summary>🌱 Currently learning</summary>
+<br/>
+<ul>
+  <li>Terraform</li>
+  <li>Opentelemetry</li>
+  <li>OIDC / OAuth2</li>
+</ul>
+</details>
