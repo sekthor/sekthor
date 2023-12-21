@@ -62,5 +62,5 @@ By now it really feels like home and I am starting to consider myself a native.
 </ul>
 </details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekthor&show_icons=true&theme=onedark&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekthor&hide=Jupyter%20Notebook,html,scss&theme=onedark&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekthor&show_icons=true&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekthor&hide=Jupyter%20Notebook,html,scss&layout=compact)
