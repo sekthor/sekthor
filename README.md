@@ -11,6 +11,7 @@ By now it really feels like home and I am starting to consider myself a native.
 - I seldom hesitate to spend hours automating 15 minute tasks ♻️
 - I have a firm free software 💯
 - I fell for the neovim meme 🤷🏻‍♂️
+- Heavily caffeinated🧉
 
 ## 👨🏻‍🔧 What I do
 
