@@ -60,6 +60,7 @@ By now it really feels like `$HOME` and I consider myself a **native**.
   <li>Terraform</li>
   <li>Opentelemetry</li>
   <li>OIDC / OAuth2</li>
+  <li>React / Next</li>
 </ul>
 </details>
 
