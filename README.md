@@ -1,8 +1,8 @@
 I am a tinkerer, a dreamer and a solarpunk driven by curiostity.
 Since I can remember I have always had my head in the clouds.
 These days I mostly limit myself to one.
-_The_ cloud ☁️, that is.
-By now it really feels like home and I am starting to consider myself a native.
+**_The_ cloud** ☁️, that is.
+By now it really feels like home and I consider myself a **native**.
 
 ## `$ whoami`
 
