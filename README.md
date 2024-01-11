@@ -9,7 +9,7 @@ By now it really feels like home and I am starting to consider myself a native.
 - I am a DevOps engineer tinkering along the full stack.
 - I live and breathe Kubernetes ☸️, love Linux 🐧 and mostly write Go.
 - I seldom hesitate to spend hours automating 15 minute tasks ♻️
-- I have a firm free software 💯
+- I have a firm belief in free software 💯
 - I fell for the neovim meme 🤷🏻‍♂️
 - Heavily caffeinated🧉
 
