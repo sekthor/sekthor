@@ -58,8 +58,9 @@ By now it really feels like `$HOME` and I consider myself a **native**.
 <br/>
 <ul>
   <li>Terraform</li>
-  <li>Opentelemetry</li>
+  <li>Opentelemetry: <a href="https://github.com/sekthor/otel-test">otel-test</a></li>
   <li>OIDC / OAuth2</li>
+  <li>grpc / protocol buffers: <a href="https://github.com/sekthor/protobuf">protobuf</a></li>
   <li>React / Next</li>
 </ul>
 </details>
