@@ -65,5 +65,10 @@ By now it really feels like `$HOME` and I consider myself a **native**.
 </ul>
 </details>
 
+## 💼 Projects
+
+- [singing-city](https://github.com/sekthor/singing-city): A PoC web app connecting venues and artists for performances during festivals (or similiar events). Currently developing `v2` for more flexiblity and stability.
+- [kombuese](http://github.com/kombuese): An upcoming project, that has not hit a stable v1 yet. Keeping you updated 🤫
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekthor&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekthor&hide=Jupyter%20Notebook,html,scss&layout=compact)
