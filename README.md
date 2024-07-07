@@ -60,7 +60,7 @@ By now it really feels like `$HOME` and I consider myself a **native**.
   <li>Terraform</li>
   <li>Opentelemetry: <a href="https://github.com/sekthor/otel-test">otel-test</a>, <a href="https://github.com/sekthor/tracy">tracy</a></li>
   <li>OIDC / OAuth2: <a href="https://github.com/sekthor/go-api-oauth">go-api-oauth</a></li>
-  <li>grpc / protocol buffers: <a href="https://github.com/sekthor/protobuf">protobuf</a></li>, <a href="https://github.com/sekthor/proto-gw-test">proto-gw-test</a></li>
+  <li>grpc / protocol buffers: <a href="https://github.com/sekthor/protobuf">protobuf</a>, <a href="https://github.com/sekthor/proto-gw-test">proto-gw-test</a></li>
   <li>React / Next</li>
 </ul>
 </details>
