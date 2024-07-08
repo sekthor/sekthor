@@ -13,17 +13,10 @@ By now it really feels like `$HOME` and I consider myself a **native**.
 - 📓 I fell for the neovim meme
 - 🧉 Heavily caffeinated
 
-## 👨🏻‍🔧 What I do
-
-- ✍🏻 I write code.
-- 🛠️ I build code.
-- 🚀 I deploy code.
-- 🔎 I monitor code.
-
 ## 🧰 My Stack
 
 <details>
-<summary>🛠️ Development</summary>
+<summary>🛠️ Writing Code</summary>
 <br/>
 <ul>
   <li>Go</li>
@@ -32,7 +25,7 @@ By now it really feels like `$HOME` and I consider myself a **native**.
 </details>
 
 <details>
-<summary>🚀 Deployment</summary>
+<summary>🚀 Deploying Code</summary>
 <br/>
 <ul>
   <li>Kubernetes</li>
@@ -42,7 +35,7 @@ By now it really feels like `$HOME` and I consider myself a **native**.
 </details>
 
 <details>
-<summary>🔎 Observability</summary>
+<summary>🔎 Observing Code</summary>
 <br/>
 <ul>
   <li>Prometheus</li>
