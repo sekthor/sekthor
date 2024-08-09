@@ -63,6 +63,7 @@ By now it really feels like `$HOME` and I consider myself a **native**.
 - [singing-city](https://github.com/sekthor/singing-city): A PoC web app connecting venues and artists for performances during festivals (or similiar events). Currently developing [`v2`](https://github.com/sekthor/singing-city/tree/v2) for more flexiblity and stability.
 - [kombuese](http://github.com/kombuese): An upcoming project, that has not hit a stable v1 yet. Keeping you updated 🤫
 - [dotfiles](http://github.com/sekthor/dotfiles): I enjoy customizing my linux experience. This is where I keep my configs.
+- [dnd-hugo](https://github.com/sekthor/dnd-hugo) is a hugo theme for documenting dungeons & dragons campaigns.
 
 ## 🔬 Stats
 
