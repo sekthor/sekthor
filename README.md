@@ -4,7 +4,7 @@
 
 - 🔧 DevOps engineer tinkering along the full stack
 - 🌱 a tinkerer, a dreamer and a solarpunk driven by curiostity.
-- ☁️ head always in the clouds... _the cloud_ , that is; considered a native
+- ☁️ head always in the clouds... _the cloud_ , that is > consider me a native ;)
 - 🐧 lives and breathes Kubernetes, loves Linux and mostly writes `go`
 - ⏳ seldom hesitates to spend hours automating 15 minute tasks
 - 🐃 believes in free software
