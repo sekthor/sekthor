@@ -7,7 +7,7 @@
 
 ## 💼 Projects (some)
 
-- [boilerplate](https://github.com/setkhor/boilerplate) provides a grpc microservice sekleton with grpc-gateway and opentelemetry that takes a way the boilerplate work to get your `protobuf` implememtation up and running.
+- [boilerplate](https://github.com/sekthor/boilerplate) provides a grpc microservice sekleton with grpc-gateway and opentelemetry that takes a way the boilerplate work to get your `protobuf` implememtation up and running.
 - [singing-city](https://github.com/sekthor/singing-city): A PoC web app connecting venues and artists for performances during festivals (or similiar events). Currently developing [`v2`](https://github.com/sekthor/singing-city/tree/v2) for more flexiblity and stability.
 - [kombuese](http://github.com/kombuese): An upcoming project, that has not hit a stable v1 yet. Keeping you updated 🤫
 - [dotfiles](http://github.com/sekthor/dotfiles): I enjoy customizing my linux experience. This is where I keep my configs.
