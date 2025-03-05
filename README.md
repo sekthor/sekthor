@@ -9,7 +9,7 @@
 
 - [boilerplate](https://github.com/sekthor/boilerplate) provides a grpc microservice sekleton with grpc-gateway and opentelemetry that takes a way the boilerplate work to get your `protobuf` implememtation up and running.
 - [singing-city](https://github.com/sekthor/singing-city): A PoC web app connecting venues and artists for performances during festivals (or similiar events).
-- [qrquiz](https://github.com/sekthor/qrquiz): A silly quiz-appm where right answers fix a broken qr-code. Wrong answers corrupt it further. If it scans, you solved the quiz correctly. 
+- [qrquiz](https://github.com/sekthor/qrquiz): A silly quiz-app, where right answers fix a broken qr-code. Wrong answers corrupt it further. If it scans, you solved the quiz correctly. 
 - [dotfiles](http://github.com/sekthor/dotfiles): I enjoy customizing my linux experience. This is where I keep my configs.
 - [dnd-hugo](https://github.com/sekthor/dnd-hugo) is a hugo theme for documenting dungeons & dragons campaigns.
 
